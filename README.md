@@ -12,7 +12,9 @@ The GPT covers a range of fashion categories, from avant-garde couture to practi
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Fasion Product](https://github.com/sourceduty/Fashion_Product)
+[Fashion Product](https://github.com/sourceduty/Fashion_Product)
+<br>
+[Fashion School](https://github.com/sourceduty/Fashion_School)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
